@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1625827359 source:c:\users\user\onedrive\desktop\mid term\tam bank\src\bankaccount.cpp
+	<iostream>
+	"BankAccount.h"
+	<iomanip>
+	<vector>
+
+1625826971 c:\users\user\onedrive\desktop\mid term\tam bank\include\bankaccount.h
+	<vector>
+
+1625832811 source:c:\users\user\onedrive\desktop\mid term\tam bank\src\checkingaccount.cpp
+	<iostream>
+	<string>
+	"CheckingAccount.h"
+
+1625827812 c:\users\user\onedrive\desktop\mid term\tam bank\include\checkingaccount.h
+	"BankAccount.h"
+
+1625832948 source:c:\users\user\onedrive\desktop\mid term\tam bank\src\savingaccount.cpp
+	<iostream>
+	"SavingAccount.h"
+
+1625832854 c:\users\user\onedrive\desktop\mid term\tam bank\include\savingaccount.h
+	"BankAccount.h"
+
+1625835220 source:c:\users\user\onedrive\desktop\mid term\tam bank\main.cpp
+	<iostream>
+	"BankAccount.h"
+	"SavingAccount.h"
+	"CheckingAccount.h"
+	<time.h>
+	<vector>
+
